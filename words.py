@@ -1,0 +1,15 @@
+word_list = [
+    'kast',
+    'brood',
+    'slaapkamer',
+    'vacinatie',
+    'corona',
+    'school',
+    'schoenen',
+    'tafel',
+    'kleding',
+    'computer',
+    'regen',
+    'omweer',
+    'tas',
+    'onderwijs']
